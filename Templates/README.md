@@ -1,12 +1,16 @@
 # Templates
 
 ## Games 
-Templates for paper games
+Paper games 
+
+## Engineering
+Nomograms and other tools
 
 # Links and other resources
 Here you can find a list of interesting resources 
 
 * [remarkablewiki](https://remarkablewiki.com/tips/templates) 
+* [www.bonit.at - Helper](https://www.bonit.at/rm2th.asp?fbclid=IwAR0wtdt7u5s581A-L9mz8V7tISKtJJnB2SerpI8JWYG3BccauY6pcq45Xao)
 * [Templarian](https://github.com/Templarian/Remarkable) / [Templarian Generator](https://templarian.github.io/remarkable/) 
 * [deo-so](https://github.com/deo-so/reMarkable-Tablet-Templates---Free) 
 * [bliekp](https://github.com/bliekp/remarkable-templates) 
@@ -18,3 +22,12 @@ Here you can find a list of interesting resources
 * [mb1986](https://github.com/mb1986/remarkable-templates) 
 * [steka](https://github.com/steka/reMarkable_templates) 
 * [phae](https://github.com/phae/remarkable-templates) 
+* [oisinmulvihill](https://github.com/oisinmulvihill/reMarkableTemplates) 
+* [madisonpaper] (https://madisonpaper.com/)
+* [printablepaper] (https://www.printablepaper.net/)
+* [madisonpaper] (https://madisonpaper.com/)
+
+
+
+
+
