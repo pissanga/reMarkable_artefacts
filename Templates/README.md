@@ -1,16 +1,15 @@
 # Templates
 
 ## Games 
-Templates for paper games such as Battleship [See Folder ](/reMarkable_artefacts/Templates/Games/) 
+Templates for paper games
 
 # Links and other resources
-Here you can find a list of interesting resources :)
+Here you can find a list of interesting resources 
 
-## Templates by others
 * [remarkablewiki](https://remarkablewiki.com/tips/templates) 
+* [Templarian](https://github.com/Templarian/Remarkable) / [Templarian Generator](https://templarian.github.io/remarkable/) 
 * [deo-so](https://github.com/deo-so/reMarkable-Tablet-Templates---Free) 
 * [bliekp](https://github.com/bliekp/remarkable-templates) 
-* [Templarian](https://github.com/Templarian/Remarkable) 
 * [Kiirani](https://github.com/Kiirani/remarkable-templates/blob/master/margin-lines.png) 
 * [scott-joe](https://github.com/scott-joe/remarkable-templates) 
 * [ryancat](https://github.com/ryancat/remarkable-templates/tree/main/morning_diary_en) 
